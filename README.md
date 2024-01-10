@@ -1,5 +1,5 @@
 # تبدیل اعداد به حروف فارسی با استفاده از پایتون
-مقال:
+مثال:
 ```
 print(convert_numbers_to_letters(-245))
 print(convert_numbers_to_letters(1006775))
